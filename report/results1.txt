@@ -1,0 +1,299 @@
+50 Nodes population. 61 committee size. 0 committees. Each node covers 122.00% space.
+Nodes rotate every 8 epochs.
+Expect approx 7 nodes to join each committee each epoch
+Epoch 0: Ave changes 0.00. Change pct: 0.00%, Biggest change: 0 (0.0%), Smallest change: 0 (0.0%). 0 syncing committees.
+Epoch 1: Ave changes 0.00. Change pct: 0.00%, Biggest change: 0 (0.0%), Smallest change: 0 (0.0%). 0 syncing committees.
+Epoch 2: Ave changes 0.00. Change pct: 0.00%, Biggest change: 0 (0.0%), Smallest change: 0 (0.0%). 0 syncing committees.
+Epoch 3: Ave changes 0.00. Change pct: 0.00%, Biggest change: 0 (0.0%), Smallest change: 0 (0.0%). 0 syncing committees.
+Epoch 4: Ave changes 0.00. Change pct: 0.00%, Biggest change: 0 (0.0%), Smallest change: 0 (0.0%). 0 syncing committees.
+Epoch 5: Ave changes 0.00. Change pct: 0.00%, Biggest change: 0 (0.0%), Smallest change: 0 (0.0%). 0 syncing committees.
+Epoch 6: Ave changes 0.00. Change pct: 0.00%, Biggest change: 0 (0.0%), Smallest change: 0 (0.0%). 0 syncing committees.
+Epoch 7: Ave changes 0.00. Change pct: 0.00%, Biggest change: 0 (0.0%), Smallest change: 0 (0.0%). 0 syncing committees.
+Epoch 8: Ave changes 0.00. Change pct: 0.00%, Biggest change: 0 (0.0%), Smallest change: 0 (0.0%). 0 syncing committees.
+Epoch 9: Ave changes 0.00. Change pct: 0.00%, Biggest change: 0 (0.0%), Smallest change: 0 (0.0%). 0 syncing committees.
+Epoch 10: Ave changes 0.00. Change pct: 0.00%, Biggest change: 0 (0.0%), Smallest change: 0 (0.0%). 0 syncing committees.
+Epoch 11: Ave changes 0.00. Change pct: 0.00%, Biggest change: 0 (0.0%), Smallest change: 0 (0.0%). 0 syncing committees.
+Epoch 12: Ave changes 0.00. Change pct: 0.00%, Biggest change: 0 (0.0%), Smallest change: 0 (0.0%). 0 syncing committees.
+Epoch 13: Ave changes 0.00. Change pct: 0.00%, Biggest change: 0 (0.0%), Smallest change: 0 (0.0%). 0 syncing committees.
+Epoch 14: Ave changes 0.00. Change pct: 0.00%, Biggest change: 0 (0.0%), Smallest change: 0 (0.0%). 0 syncing committees.
+Epoch 15: Ave changes 0.00. Change pct: 0.00%, Biggest change: 0 (0.0%), Smallest change: 0 (0.0%). 0 syncing committees.
+Epoch 16: Ave changes 0.00. Change pct: 0.00%, Biggest change: 0 (0.0%), Smallest change: 0 (0.0%). 0 syncing committees.
+Epoch 17: Ave changes 0.00. Change pct: 0.00%, Biggest change: 0 (0.0%), Smallest change: 0 (0.0%). 0 syncing committees.
+Epoch 18: Ave changes 0.00. Change pct: 0.00%, Biggest change: 0 (0.0%), Smallest change: 0 (0.0%). 0 syncing committees.
+Epoch 19: Ave changes 0.00. Change pct: 0.00%, Biggest change: 0 (0.0%), Smallest change: 0 (0.0%). 0 syncing committees.
+# Number of samples = 20000
+# Min = 0
+# Max = 0
+#
+# Mean = 0
+# Standard deviation = 0
+# Variance = 0
+#
+# Each ∎ is a count of 400
+#
+0 .. 1 [ 20000 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+1 .. 2 [     0 ]: 
+2 .. 3 [     0 ]: 
+3 .. 4 [     0 ]: 
+4 .. 5 [     0 ]: 
+
+100 Nodes population. 61 committee size. 1 committees. Each node covers 61.00% space.
+Nodes rotate every 8 epochs.
+Expect approx 7 nodes to join each committee each epoch
+Epoch 0: Ave changes 4.70. Change pct: 7.70%, Biggest change: 9 (14.8%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 1: Ave changes 2.54. Change pct: 4.16%, Biggest change: 5 (8.2%), Smallest change: 1 (1.6%). 0 syncing committees.
+Epoch 2: Ave changes 4.19. Change pct: 6.87%, Biggest change: 6 (9.8%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 3: Ave changes 3.64. Change pct: 5.96%, Biggest change: 6 (9.8%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 4: Ave changes 4.29. Change pct: 7.03%, Biggest change: 6 (9.8%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 5: Ave changes 3.09. Change pct: 5.06%, Biggest change: 5 (8.2%), Smallest change: 0 (0.0%). 0 syncing committees.
+Epoch 6: Ave changes 4.24. Change pct: 6.96%, Biggest change: 7 (11.5%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 7: Ave changes 4.75. Change pct: 7.79%, Biggest change: 7 (11.5%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 8: Ave changes 3.45. Change pct: 5.66%, Biggest change: 6 (9.8%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 9: Ave changes 2.61. Change pct: 4.28%, Biggest change: 4 (6.6%), Smallest change: 1 (1.6%). 0 syncing committees.
+Epoch 10: Ave changes 4.61. Change pct: 7.56%, Biggest change: 7 (11.5%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 11: Ave changes 4.59. Change pct: 7.53%, Biggest change: 7 (11.5%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 12: Ave changes 4.80. Change pct: 7.87%, Biggest change: 8 (13.1%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 13: Ave changes 2.65. Change pct: 4.34%, Biggest change: 4 (6.6%), Smallest change: 0 (0.0%). 0 syncing committees.
+Epoch 14: Ave changes 3.68. Change pct: 6.04%, Biggest change: 6 (9.8%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 15: Ave changes 4.57. Change pct: 7.49%, Biggest change: 6 (9.8%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 16: Ave changes 3.65. Change pct: 5.99%, Biggest change: 6 (9.8%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 17: Ave changes 2.48. Change pct: 4.06%, Biggest change: 4 (6.6%), Smallest change: 1 (1.6%). 0 syncing committees.
+Epoch 18: Ave changes 3.30. Change pct: 5.41%, Biggest change: 5 (8.2%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 19: Ave changes 3.85. Change pct: 6.32%, Biggest change: 6 (9.8%), Smallest change: 2 (3.3%). 0 syncing committees.
+# Number of samples = 20000
+# Min = 0
+# Max = 9
+#
+# Mean = 3.784300000000009
+# Standard deviation = 1.3405497044123358
+# Variance = 1.7970735100000006
+#
+# Each ∎ is a count of 109
+#
+ 0 ..  1 [   32 ]: 
+ 1 ..  2 [  643 ]: ∎∎∎∎∎
+ 2 ..  3 [ 2609 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+ 3 ..  4 [ 5461 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+ 4 ..  5 [ 5236 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+ 5 ..  6 [ 4232 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+ 6 ..  7 [ 1265 ]: ∎∎∎∎∎∎∎∎∎∎∎
+ 7 ..  8 [  442 ]: ∎∎∎∎
+ 8 ..  9 [   66 ]: 
+ 9 .. 10 [   14 ]: 
+
+500 Nodes population. 61 committee size. 8 committees. Each node covers 12.20% space.
+Nodes rotate every 8 epochs.
+Expect approx 7 nodes to join each committee each epoch
+Epoch 0: Ave changes 9.00. Change pct: 14.75%, Biggest change: 14 (23.0%), Smallest change: 4 (6.6%). 0 syncing committees.
+Epoch 1: Ave changes 8.14. Change pct: 13.35%, Biggest change: 13 (21.3%), Smallest change: 4 (6.6%). 0 syncing committees.
+Epoch 2: Ave changes 6.75. Change pct: 11.06%, Biggest change: 11 (18.0%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 3: Ave changes 9.08. Change pct: 14.88%, Biggest change: 13 (21.3%), Smallest change: 5 (8.2%). 0 syncing committees.
+Epoch 4: Ave changes 8.73. Change pct: 14.31%, Biggest change: 15 (24.6%), Smallest change: 4 (6.6%). 0 syncing committees.
+Epoch 5: Ave changes 7.00. Change pct: 11.48%, Biggest change: 11 (18.0%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 6: Ave changes 7.31. Change pct: 11.99%, Biggest change: 11 (18.0%), Smallest change: 4 (6.6%). 0 syncing committees.
+Epoch 7: Ave changes 7.58. Change pct: 12.43%, Biggest change: 12 (19.7%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 8: Ave changes 9.36. Change pct: 15.34%, Biggest change: 14 (23.0%), Smallest change: 5 (8.2%). 0 syncing committees.
+Epoch 9: Ave changes 8.21. Change pct: 13.46%, Biggest change: 13 (21.3%), Smallest change: 4 (6.6%). 0 syncing committees.
+Epoch 10: Ave changes 7.29. Change pct: 11.95%, Biggest change: 11 (18.0%), Smallest change: 5 (8.2%). 0 syncing committees.
+Epoch 11: Ave changes 9.17. Change pct: 15.04%, Biggest change: 14 (23.0%), Smallest change: 5 (8.2%). 0 syncing committees.
+Epoch 12: Ave changes 8.45. Change pct: 13.86%, Biggest change: 14 (23.0%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 13: Ave changes 7.32. Change pct: 11.99%, Biggest change: 12 (19.7%), Smallest change: 4 (6.6%). 0 syncing committees.
+Epoch 14: Ave changes 7.62. Change pct: 12.49%, Biggest change: 12 (19.7%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 15: Ave changes 7.07. Change pct: 11.59%, Biggest change: 11 (18.0%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 16: Ave changes 8.47. Change pct: 13.88%, Biggest change: 14 (23.0%), Smallest change: 5 (8.2%). 0 syncing committees.
+Epoch 17: Ave changes 8.74. Change pct: 14.33%, Biggest change: 14 (23.0%), Smallest change: 5 (8.2%). 0 syncing committees.
+Epoch 18: Ave changes 7.51. Change pct: 12.31%, Biggest change: 12 (19.7%), Smallest change: 4 (6.6%). 0 syncing committees.
+Epoch 19: Ave changes 9.10. Change pct: 14.91%, Biggest change: 14 (23.0%), Smallest change: 4 (6.6%). 0 syncing committees.
+# Number of samples = 20000
+# Min = 3
+# Max = 15
+#
+# Mean = 8.093849999999989
+# Standard deviation = 2.1037685655746454
+# Variance = 4.425842177500001
+#
+# Each ∎ is a count of 77
+#
+ 3 ..  4 [  111 ]: ∎
+ 4 ..  5 [  572 ]: ∎∎∎∎∎∎∎
+ 5 ..  6 [ 1440 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+ 6 ..  7 [ 2553 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+ 7 ..  8 [ 3299 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+ 8 ..  9 [ 3898 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+ 9 .. 10 [ 3292 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+10 .. 11 [ 2181 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+11 .. 12 [ 1434 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+12 .. 13 [  763 ]: ∎∎∎∎∎∎∎∎∎
+13 .. 14 [  339 ]: ∎∎∎∎
+14 .. 15 [   84 ]: ∎
+15 .. 16 [   34 ]: 
+16 .. 17 [    0 ]: 
+17 .. 18 [    0 ]: 
+18 .. 19 [    0 ]: 
+19 .. 20 [    0 ]: 
+20 .. 21 [    0 ]: 
+21 .. 22 [    0 ]: 
+22 .. 23 [    0 ]: 
+
+1000 Nodes population. 61 committee size. 16 committees. Each node covers 6.10% space.
+Nodes rotate every 8 epochs.
+Expect approx 7 nodes to join each committee each epoch
+Epoch 0: Ave changes 8.84. Change pct: 14.48%, Biggest change: 12 (19.7%), Smallest change: 5 (8.2%). 0 syncing committees.
+Epoch 1: Ave changes 7.86. Change pct: 12.89%, Biggest change: 13 (21.3%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 2: Ave changes 8.85. Change pct: 14.51%, Biggest change: 13 (21.3%), Smallest change: 5 (8.2%). 0 syncing committees.
+Epoch 3: Ave changes 9.13. Change pct: 14.97%, Biggest change: 15 (24.6%), Smallest change: 5 (8.2%). 0 syncing committees.
+Epoch 4: Ave changes 7.56. Change pct: 12.39%, Biggest change: 14 (23.0%), Smallest change: 4 (6.6%). 0 syncing committees.
+Epoch 5: Ave changes 7.97. Change pct: 13.06%, Biggest change: 14 (23.0%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 6: Ave changes 8.17. Change pct: 13.40%, Biggest change: 13 (21.3%), Smallest change: 4 (6.6%). 0 syncing committees.
+Epoch 7: Ave changes 9.03. Change pct: 14.81%, Biggest change: 13 (21.3%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 8: Ave changes 8.48. Change pct: 13.90%, Biggest change: 14 (23.0%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 9: Ave changes 8.16. Change pct: 13.38%, Biggest change: 12 (19.7%), Smallest change: 4 (6.6%). 0 syncing committees.
+Epoch 10: Ave changes 8.91. Change pct: 14.61%, Biggest change: 14 (23.0%), Smallest change: 5 (8.2%). 0 syncing committees.
+Epoch 11: Ave changes 9.33. Change pct: 15.30%, Biggest change: 16 (26.2%), Smallest change: 4 (6.6%). 0 syncing committees.
+Epoch 12: Ave changes 7.30. Change pct: 11.97%, Biggest change: 13 (21.3%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 13: Ave changes 7.89. Change pct: 12.94%, Biggest change: 13 (21.3%), Smallest change: 4 (6.6%). 0 syncing committees.
+Epoch 14: Ave changes 8.26. Change pct: 13.53%, Biggest change: 14 (23.0%), Smallest change: 5 (8.2%). 0 syncing committees.
+Epoch 15: Ave changes 8.64. Change pct: 14.16%, Biggest change: 14 (23.0%), Smallest change: 5 (8.2%). 0 syncing committees.
+Epoch 16: Ave changes 8.62. Change pct: 14.13%, Biggest change: 15 (24.6%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 17: Ave changes 7.51. Change pct: 12.31%, Biggest change: 13 (21.3%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 18: Ave changes 8.92. Change pct: 14.62%, Biggest change: 16 (26.2%), Smallest change: 4 (6.6%). 0 syncing committees.
+Epoch 19: Ave changes 9.56. Change pct: 15.68%, Biggest change: 15 (24.6%), Smallest change: 5 (8.2%). 0 syncing committees.
+# Number of samples = 20000
+# Min = 2
+# Max = 16
+#
+# Mean = 8.449750000000005
+# Standard deviation = 2.0603822309222135
+# Variance = 4.245174937499998
+#
+# Each ∎ is a count of 80
+#
+ 2 ..  3 [   12 ]: 
+ 3 ..  4 [   66 ]: 
+ 4 ..  5 [  312 ]: ∎∎∎
+ 5 ..  6 [  911 ]: ∎∎∎∎∎∎∎∎∎∎∎
+ 6 ..  7 [ 2057 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+ 7 ..  8 [ 3224 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+ 8 ..  9 [ 4025 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+ 9 .. 10 [ 3666 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+10 .. 11 [ 2583 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+11 .. 12 [ 1650 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+12 .. 13 [  854 ]: ∎∎∎∎∎∎∎∎∎∎
+13 .. 14 [  404 ]: ∎∎∎∎∎
+14 .. 15 [  179 ]: ∎∎
+15 .. 16 [   32 ]: 
+16 .. 17 [   25 ]: 
+17 .. 18 [    0 ]: 
+18 .. 19 [    0 ]: 
+19 .. 20 [    0 ]: 
+20 .. 21 [    0 ]: 
+21 .. 22 [    0 ]: 
+
+10000 Nodes population. 61 committee size. 163 committees. Each node covers 0.61% space.
+Nodes rotate every 8 epochs.
+Expect approx 7 nodes to join each committee each epoch
+Epoch 0: Ave changes 8.95. Change pct: 14.67%, Biggest change: 16 (26.2%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 1: Ave changes 8.76. Change pct: 14.36%, Biggest change: 16 (26.2%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 2: Ave changes 8.83. Change pct: 14.48%, Biggest change: 16 (26.2%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 3: Ave changes 8.81. Change pct: 14.44%, Biggest change: 18 (29.5%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 4: Ave changes 8.77. Change pct: 14.38%, Biggest change: 17 (27.9%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 5: Ave changes 8.85. Change pct: 14.51%, Biggest change: 16 (26.2%), Smallest change: 4 (6.6%). 0 syncing committees.
+Epoch 6: Ave changes 9.03. Change pct: 14.81%, Biggest change: 17 (27.9%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 7: Ave changes 8.91. Change pct: 14.61%, Biggest change: 17 (27.9%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 8: Ave changes 8.86. Change pct: 14.53%, Biggest change: 16 (26.2%), Smallest change: 4 (6.6%). 0 syncing committees.
+Epoch 9: Ave changes 9.08. Change pct: 14.88%, Biggest change: 17 (27.9%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 10: Ave changes 8.95. Change pct: 14.67%, Biggest change: 16 (26.2%), Smallest change: 4 (6.6%). 0 syncing committees.
+Epoch 11: Ave changes 8.91. Change pct: 14.61%, Biggest change: 18 (29.5%), Smallest change: 4 (6.6%). 0 syncing committees.
+Epoch 12: Ave changes 8.91. Change pct: 14.61%, Biggest change: 19 (31.1%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 13: Ave changes 9.01. Change pct: 14.78%, Biggest change: 15 (24.6%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 14: Ave changes 9.21. Change pct: 15.09%, Biggest change: 17 (27.9%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 15: Ave changes 8.78. Change pct: 14.39%, Biggest change: 16 (26.2%), Smallest change: 4 (6.6%). 0 syncing committees.
+Epoch 16: Ave changes 8.86. Change pct: 14.53%, Biggest change: 19 (31.1%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 17: Ave changes 8.95. Change pct: 14.66%, Biggest change: 18 (29.5%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 18: Ave changes 8.86. Change pct: 14.52%, Biggest change: 18 (29.5%), Smallest change: 4 (6.6%). 0 syncing committees.
+Epoch 19: Ave changes 8.86. Change pct: 14.52%, Biggest change: 18 (29.5%), Smallest change: 3 (4.9%). 0 syncing committees.
+# Number of samples = 20000
+# Min = 2
+# Max = 19
+#
+# Mean = 8.906799999999993
+# Standard deviation = 2.278094326405297
+# Variance = 5.189713760000003
+#
+# Each ∎ is a count of 69
+#
+ 2 ..  3 [    8 ]: 
+ 3 ..  4 [   43 ]: 
+ 4 ..  5 [  274 ]: ∎∎∎
+ 5 ..  6 [  826 ]: ∎∎∎∎∎∎∎∎∎∎∎
+ 6 ..  7 [ 1658 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+ 7 ..  8 [ 2667 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+ 8 ..  9 [ 3492 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+ 9 .. 10 [ 3486 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+10 .. 11 [ 2949 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+11 .. 12 [ 2075 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+12 .. 13 [ 1238 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+13 .. 14 [  702 ]: ∎∎∎∎∎∎∎∎∎∎
+14 .. 15 [  325 ]: ∎∎∎∎
+15 .. 16 [  161 ]: ∎∎
+16 .. 17 [   69 ]: ∎
+17 .. 18 [   17 ]: 
+18 .. 19 [    7 ]: 
+19 .. 20 [    3 ]: 
+20 .. 21 [    0 ]: 
+21 .. 22 [    0 ]: 
+
+100000 Nodes population. 61 committee size. 1639 committees. Each node covers 0.06% space.
+Nodes rotate every 8 epochs.
+Expect approx 7 nodes to join each committee each epoch
+Epoch 0: Ave changes 8.82. Change pct: 14.47%, Biggest change: 18 (29.5%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 1: Ave changes 8.85. Change pct: 14.51%, Biggest change: 19 (31.1%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 2: Ave changes 9.17. Change pct: 15.03%, Biggest change: 18 (29.5%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 3: Ave changes 9.00. Change pct: 14.75%, Biggest change: 17 (27.9%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 4: Ave changes 8.95. Change pct: 14.67%, Biggest change: 17 (27.9%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 5: Ave changes 8.97. Change pct: 14.70%, Biggest change: 20 (32.8%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 6: Ave changes 9.11. Change pct: 14.93%, Biggest change: 17 (27.9%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 7: Ave changes 8.96. Change pct: 14.68%, Biggest change: 17 (27.9%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 8: Ave changes 8.99. Change pct: 14.74%, Biggest change: 18 (29.5%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 9: Ave changes 8.85. Change pct: 14.50%, Biggest change: 20 (32.8%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 10: Ave changes 9.12. Change pct: 14.96%, Biggest change: 18 (29.5%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 11: Ave changes 8.93. Change pct: 14.64%, Biggest change: 18 (29.5%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 12: Ave changes 8.74. Change pct: 14.33%, Biggest change: 19 (31.1%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 13: Ave changes 8.89. Change pct: 14.57%, Biggest change: 17 (27.9%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 14: Ave changes 8.99. Change pct: 14.74%, Biggest change: 17 (27.9%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 15: Ave changes 8.88. Change pct: 14.56%, Biggest change: 17 (27.9%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 16: Ave changes 9.14. Change pct: 14.99%, Biggest change: 17 (27.9%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 17: Ave changes 8.93. Change pct: 14.63%, Biggest change: 18 (29.5%), Smallest change: 2 (3.3%). 0 syncing committees.
+Epoch 18: Ave changes 9.19. Change pct: 15.07%, Biggest change: 18 (29.5%), Smallest change: 3 (4.9%). 0 syncing committees.
+Epoch 19: Ave changes 8.93. Change pct: 14.63%, Biggest change: 18 (29.5%), Smallest change: 2 (3.3%). 0 syncing committees.
+# Number of samples = 20000
+# Min = 2
+# Max = 20
+#
+# Mean = 8.97050000000004
+# Standard deviation = 2.3475156548998726
+# Variance = 5.510829749999977
+#
+# Each ∎ is a count of 69
+#
+ 2 ..  3 [   12 ]: 
+ 3 ..  4 [   64 ]: 
+ 4 ..  5 [  249 ]: ∎∎∎
+ 5 ..  6 [  797 ]: ∎∎∎∎∎∎∎∎∎∎∎
+ 6 ..  7 [ 1731 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+ 7 ..  8 [ 2624 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+ 8 ..  9 [ 3287 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+ 9 .. 10 [ 3465 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+10 .. 11 [ 2932 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+11 .. 12 [ 2080 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+12 .. 13 [ 1328 ]: ∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+13 .. 14 [  738 ]: ∎∎∎∎∎∎∎∎∎∎
+14 .. 15 [  361 ]: ∎∎∎∎∎
+15 .. 16 [  198 ]: ∎∎
+16 .. 17 [   81 ]: ∎
+17 .. 18 [   33 ]: 
+18 .. 19 [   15 ]: 
+19 .. 20 [    3 ]: 
+20 .. 21 [    2 ]: 
+21 .. 22 [    0 ]: 
+
